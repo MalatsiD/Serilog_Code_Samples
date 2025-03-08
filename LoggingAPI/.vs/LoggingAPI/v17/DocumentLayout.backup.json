@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|c:\\projects\\tutorials\\serilog\\loggingapi\\loggingapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|solutionrelative:loggingapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|c:\\projects\\tutorials\\serilog\\loggingapi\\loggingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|solutionrelative:loggingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|c:\\projects\\tutorials\\serilog\\loggingapi\\loggingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|solutionrelative:loggingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|c:\\projects\\tutorials\\serilog\\loggingapi\\loggingapi\\behaviors\\loggingpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|solutionrelative:loggingapi\\behaviors\\loggingpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|c:\\projects\\tutorials\\serilog\\loggingapi\\loggingapi\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6AAB0-0D9D-4315-9FE4-AC852E14C92B}|LoggingAPI\\LoggingAPI.csproj|solutionrelative:loggingapi\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LoggingAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\appsettings.Development.json",
+              "RelativeToolTip": "LoggingAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T07:35:27.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LoggingAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\appsettings.json",
+              "RelativeToolTip": "LoggingAPI\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T07:33:43.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "LoggingAPI\\Models\\Result.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\Models\\Result.cs",
+              "RelativeToolTip": "LoggingAPI\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:18:39.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggingPipelineBehavior.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\Behaviors\\LoggingPipelineBehavior.cs",
+              "RelativeDocumentMoniker": "LoggingAPI\\Behaviors\\LoggingPipelineBehavior.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\Behaviors\\LoggingPipelineBehavior.cs",
+              "RelativeToolTip": "LoggingAPI\\Behaviors\\LoggingPipelineBehavior.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:08:07.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoggingAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Serilog\\LoggingAPI\\LoggingAPI\\Program.cs",
+              "RelativeToolTip": "LoggingAPI\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:05:58.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h/olKH5v0FFfSynbsbCSqhxTGvRorI69lm+qKrzjFFs=",
+  "Source": "SerilogWithSeqAPI",
+  "BasePath": "_content/SerilogWithSeqAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

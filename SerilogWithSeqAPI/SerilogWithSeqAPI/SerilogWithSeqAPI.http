@@ -1,0 +1,6 @@
+@SerilogWithSeqAPI_HostAddress = http://localhost:5269
+
+GET {{SerilogWithSeqAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+2025-03-07 19:29:31.772 +02:00 [DBG] Hosting starting
+2025-03-07 19:29:31.811 +02:00 [DBG] Function ExecuteAsync is executing
+2025-03-07 19:29:31.827 +02:00 [DBG] Hosting started
